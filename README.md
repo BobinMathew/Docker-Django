@@ -2,6 +2,9 @@
 
 Django app inside a Docker
 
+- [ ] Include Mysql
+- [ ] Include django -Rest API
+- [ ] Include React (optional)
 <!--
 # create a new repository on the command line
 echo "# Docker-Django" >> README.md

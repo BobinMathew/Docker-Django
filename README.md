@@ -2,7 +2,7 @@
 
 Django app inside a Docker
 
-- [ ] Include Mysql
+- [x] Include Mysql
 - [ ] Include django -Rest API
 - [ ] Include React (optional)
 <!--
